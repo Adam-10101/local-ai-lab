@@ -210,3 +210,6 @@ __marimo__/
 # LlamaIndex storage and cache
 /storage
 /cache
+
+# Ignore oversized PDF that exceeds GitHub's 100MB limit
+documents/AA & S - fender modifications/6200-203-V3-3400-01301  Operation and Maintenance Manual for Rubber Fender at Saadiyat Island Marina and Ferry Terminal.pdf
